@@ -1,0 +1,7 @@
+.warning{
+    display: none;
+}
+
+.warning.active{
+    display: block;
+}
